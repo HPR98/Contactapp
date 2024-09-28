@@ -1,0 +1,13 @@
+.AddContact{
+    position: absolute;
+    background-color: gray;
+}
+.addContactForm{
+    display: flex;
+    flex-direction: column;
+
+}
+.editForm{
+    display: flex;
+    flex-direction: column;
+}
